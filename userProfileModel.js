@@ -51,7 +51,9 @@ const userProfileSchema = new mongoose.Schema({
 
 
 const userProfileModel = mongoose.model('userProfiles',userProfileSchema);
+const wholeSellerProfileModel = mongoose.model('wholeSellerProfiles',userProfileSchema);
 
 module.exports = {
-    userProfileModel
+    userProfileModel,
+    wholeSellerProfileModel
 }
