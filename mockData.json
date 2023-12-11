@@ -1,0 +1,545 @@
+[
+  {
+    "item": "High-Performance Gaming Laptop",
+    "category": "Laptops",
+    "price": 55000,
+    "quantity": 15,
+    "description": "Top-tier gaming laptop with dedicated graphics for an exceptional gaming experience.",
+    "image": "gaming_laptop.jpg",
+    "storeName": "Gamer's Paradise"
+  },
+  {
+    "item": "Ultimate Gaming PC",
+    "category": "Gaming PC",
+    "price": 60000,
+    "quantity": 10,
+    "description": "A powerhouse gaming PC with cutting-edge components for extreme gaming performance.",
+    "image": "ultimate_gaming_pc.jpg",
+    "storeName": "PowerPlay Systems"
+  },
+  {
+    "item": "Nvidia RTX 3080 Graphics Card",
+    "category": "PC Parts",
+    "price": 50000,
+    "quantity": 20,
+    "description": "High-end graphics card for smooth gaming and rendering.",
+    "image": "graphics_card.jpg",
+    "storeName": "Graphics Zone"
+  },
+  {
+    "item": "Mechanical Gaming Keyboard",
+    "category": "Peripherals",
+    "price": 7000,
+    "quantity": 30,
+    "description": "Mechanical keyboard with RGB lighting for an immersive gaming setup.",
+    "image": "gaming_keyboard.jpg",
+    "storeName": "TechGear Hub"
+  },
+  {
+    "item": "Professional Laptop Pro",
+    "category": "Laptops",
+    "price": 18000,
+    "quantity": 25,
+    "description": "Powerful laptop for professional work and multitasking.",
+    "image": "professional_laptop.jpg",
+    "storeName": "TechPros"
+  },
+  {
+    "item": "Budget Gaming Rig",
+    "category": "Gaming PC",
+    "price": 12000,
+    "quantity": 25,
+    "description": "Entry-level gaming PC with decent performance for budget-conscious gamers.",
+    "image": "budget_gaming_pc.jpg",
+    "storeName": "Affordable Gaming Solutions"
+  },
+  {
+    "item": "UltraLight Ultrabook",
+    "category": "Laptops",
+    "price": 58000,
+    "quantity": 10,
+    "description": "Sleek and lightweight ultrabook for on-the-go productivity.",
+    "image": "ultrabook.jpg",
+    "storeName": "UltraMobile Tech"
+  },
+  {
+    "item": "Wireless Gaming Mouse",
+    "category": "Peripherals",
+    "price": 5500,
+    "quantity": 40,
+    "description": "Wireless mouse designed for precision and comfort during gaming sessions.",
+    "image": "gaming_mouse.jpg",
+    "storeName": "Wireless Gaming Tech"
+  },
+  {
+    "item": "HD Gaming Monitor",
+    "category": "Peripherals",
+    "price": 30000,
+    "quantity": 20,
+    "description": "High-definition monitor with a fast refresh rate for an immersive gaming experience.",
+    "image": "gaming_monitor.jpg",
+    "storeName": "HD Display Solutions"
+  },
+  {
+    "item": "NVIDIA RTX 3070 Graphics Card",
+    "category": "PC Parts",
+    "price": 45000,
+    "quantity": 18,
+    "description": "Mid-range graphics card for excellent gaming and rendering performance.",
+    "image": "graphics_card_3070.jpg",
+    "storeName": "Graphics Zone"
+  },
+  {
+    "item": "Office Laptop",
+    "category": "Laptops",
+    "price": 15000,
+    "quantity": 30,
+    "description": "Laptop designed for office tasks and everyday use.",
+    "image": "office_laptop.jpg",
+    "storeName": "Office Tech Solutions"
+  },
+  {
+    "item": "Budget Gaming Mouse",
+    "category": "Peripherals",
+    "price": 2500,
+    "quantity": 50,
+    "description": "Affordable gaming mouse for casual gamers.",
+    "image": "budget_gaming_mouse.jpg",
+    "storeName": "Budget Gaming Gear"
+  },
+  {
+    "item": "DDR4 RAM 16GB",
+    "category": "PC Parts",
+    "price": 7000,
+    "quantity": 30,
+    "description": "High-speed DDR4 RAM module for efficient multitasking.",
+    "image": "ram_16gb.jpg",
+    "storeName": "MemoryMasters Tech"
+  },
+  {
+    "item": "UltraWide Gaming Monitor",
+    "category": "Peripherals",
+    "price": 50000,
+    "quantity": 15,
+    "description": "Ultra-wide monitor for an immersive gaming and multimedia experience.",
+    "image": "ultrawide_monitor.jpg",
+    "storeName": "WideView Displays"
+  },
+  {
+    "item": "Gaming Laptop Y",
+    "category": "Laptops",
+    "price": 48000,
+    "quantity": 12,
+    "description": "Powerful gaming laptop with a sleek design for gaming on the go.",
+    "image": "gaming_laptop_y.jpg",
+    "storeName": "Mobile Gaming Solutions"
+  },
+  {
+    "item": "Gaming PC Elite",
+    "category": "Gaming PC",
+    "price": 55000,
+    "quantity": 8,
+    "description": "Elite gaming PC with liquid cooling and high-end components.",
+    "image": "gaming_pc_elite.jpg",
+    "storeName": "Elite Gaming Rigs"
+  },
+  {
+    "item": "Graphics Card Holder",
+    "category": "PC Parts",
+    "price": 2500,
+    "quantity": 40,
+    "description": "Stylish graphics card holder for showcasing your GPU.",
+    "image": "graphics_card_holder.jpg",
+    "storeName": "TechDecor Accessories"
+  },
+  {
+    "item": "RGB Gaming Keyboard",
+    "category": "Peripherals",
+    "price": 8000,
+    "quantity": 25,
+    "description": "Gaming keyboard with customizable RGB lighting for a personalized gaming setup.",
+    "image": "rgb_keyboard.jpg",
+    "storeName": "RGB Gaming Gear"
+  },
+  {
+    "item": "NVIDIA GTX 1660 Ti Graphics Card",
+    "category": "PC Parts",
+    "price": 20000,
+    "quantity": 20,
+    "description": "Mid-range graphics card for smooth gaming performance.",
+    "image": "gtx_1660_ti.jpg",
+    "storeName": "Graphics Zone"
+  },
+  {
+    "item": "Business Laptop Pro",
+    "category": "Laptops",
+    "price": 25000,
+    "quantity": 18,
+    "description": "High-performance laptop for business professionals and power users.",
+    "image": "business_laptop.jpg",
+    "storeName": "Business Tech Solutions"
+  },
+  {
+    "item": "Gaming PC Compact",
+    "category": "Gaming PC",
+    "price": 12000,
+    "quantity": 15,
+    "description": "Compact gaming PC with a small form factor for space-conscious gamers.",
+    "image": "compact_gaming_pc.jpg",
+    "storeName": "Compact Gaming Gear"
+  },
+  {
+    "item": "CPU Cooler Liquid Cooling",
+    "category": "PC Parts",
+    "price": 8000,
+    "quantity": 25,
+    "description": "Liquid cooling solution for efficient CPU cooling during intense gaming sessions.",
+    "image": "liquid_cooler.jpg",
+    "storeName": "CoolTech Solutions"
+  },
+  {
+    "item": "Gaming Mousepad XL",
+    "category": "Peripherals",
+    "price": 1500,
+    "quantity": 50,
+    "description": "Extra-large gaming mousepad for smooth mouse movement and precise control.",
+    "image": "mousepad_xl.jpg",
+    "storeName": "XL Gaming Accessories"
+  },
+  {
+    "item": "Gaming Laptop Z",
+    "category": "Laptops",
+    "price": 50000,
+    "quantity": 10,
+    "description": "Slim gaming laptop with a powerful GPU for portable gaming performance.",
+    "image": "gaming_laptop_z.jpg",
+    "storeName": "Slim Gaming Tech"
+  },
+  {
+    "item": "RGB Gaming Mouse Wireless",
+    "category": "Peripherals",
+    "price": 5500,
+    "quantity": 40,
+    "description": "Wireless gaming mouse with RGB lighting for cable-free gaming setups.",
+    "image": "wireless_gaming_mouse.jpg",
+    "storeName": "Wireless Gaming Tech"
+  },
+  {
+    "item": "27-inch 4K Gaming Monitor",
+    "category": "Peripherals",
+    "price": 45000,
+    "quantity": 20,
+    "description": "Large 4K monitor with high refresh rate for an immersive gaming and multimedia experience.",
+    "image": "4k_gaming_monitor.jpg",
+    "storeName": "4K Display Solutions"
+  },
+  {
+    "item": "AMD Ryzen 7 5800X CPU",
+    "category": "PC Parts",
+    "price": 30000,
+    "quantity": 18,
+    "description": "High-performance CPU with multiple cores for gaming and content creation.",
+    "image": "ryzen_cpu.jpg",
+    "storeName": "Ryzen Computing Solutions"
+  },
+  {
+    "item": "Wireless Gaming Headset",
+    "category": "Peripherals",
+    "price": 8000,
+    "quantity": 25,
+    "description": "Immersive wireless gaming headset with surround sound for an enhanced gaming experience.",
+    "image": "wireless_gaming_headset.jpg",
+    "storeName": "AudioGaming Tech"
+  },
+  {
+    "item": "Corsair 32GB DDR4 RAM",
+    "category": "PC Parts",
+    "price": 12000,
+    "quantity": 30,
+    "description": "High-capacity DDR4 RAM module for multitasking and gaming.",
+    "image": "ram_32gb.jpg",
+    "storeName": "MemoryMasters Tech"
+  },
+  {
+    "item": "Curved Gaming Monitor",
+    "category": "Peripherals",
+    "price": 35000,
+    "quantity": 15,
+    "description": "Curved monitor for an immersive gaming and cinematic viewing experience.",
+    "image": "curved_gaming_monitor.jpg",
+    "storeName": "Curved Display Tech"
+  },
+  {
+    "item": "NVIDIA GTX 1650 Graphics Card",
+    "category": "PC Parts",
+    "price": 15000,
+    "quantity": 20,
+    "description": "Entry-level graphics card for casual gaming and multimedia tasks.",
+    "image": "gtx_1650.jpg",
+    "storeName": "Graphics Zone"
+  },
+  {
+    "item": "Portable Business Laptop",
+    "category": "Laptops",
+    "price": 20000,
+    "quantity": 20,
+    "description": "Portable laptop with a focus on business productivity and convenience.",
+    "image": "business_laptop_portable.jpg",
+    "storeName": "Portable Business Tech"
+  },
+
+
+  {
+    "item": "Premium Ultrabook",
+    "category": "Laptops",
+    "price": 45000,
+    "quantity": 18,
+    "description": "Sleek and premium ultrabook for professionals on the move.",
+    "image": "premium_ultrabook.jpg",
+    "storeName": "TechElite Laptops"
+  },
+  {
+    "item": "Compact Gaming PC",
+    "category": "Gaming PC",
+    "price": 18000,
+    "quantity": 20,
+    "description": "Compact gaming PC with powerful specs for tight spaces.",
+    "image": "compact_gaming_pc_2.jpg",
+    "storeName": "Compact Gaming Solutions"
+  },
+  {
+    "item": "AMD Radeon RX 5700 XT Graphics Card",
+    "category": "PC Parts",
+    "price": 28000,
+    "quantity": 15,
+    "description": "High-performance graphics card for gaming enthusiasts.",
+    "image": "rx_5700_xt.jpg",
+    "storeName": "Graphics Power Tech"
+  },
+  {
+    "item": "Wireless Mechanical Keyboard",
+    "category": "Peripherals",
+    "price": 8500,
+    "quantity": 35,
+    "description": "Mechanical keyboard with wireless connectivity for a clutter-free desk.",
+    "image": "wireless_mechanical_keyboard.jpg",
+    "storeName": "Wireless Gear Hub"
+  },
+  {
+    "item": "Business Laptop Pro X",
+    "category": "Laptops",
+    "price": 28000,
+    "quantity": 22,
+    "description": "Business laptop with enhanced performance and security features.",
+    "image": "business_laptop_pro_x.jpg",
+    "storeName": "Pro Business Tech"
+  },
+  {
+    "item": "Mid-Range Gaming PC",
+    "category": "Gaming PC",
+    "price": 22000,
+    "quantity": 18,
+    "description": "Mid-range gaming PC for a balanced gaming experience.",
+    "image": "mid_range_gaming_pc.jpg",
+    "storeName": "Gaming Essentials"
+  },
+  {
+    "item": "Nvidia GTX 1660 Super Graphics Card",
+    "category": "PC Parts",
+    "price": 22000,
+    "quantity": 20,
+    "description": "Graphics card with super performance for smooth gaming.",
+    "image": "gtx_1660_super.jpg",
+    "storeName": "Graphics Zone"
+  },
+  {
+    "item": "RGB Gaming Mouse Wired",
+    "category": "Peripherals",
+    "price": 4500,
+    "quantity": 40,
+    "description": "Wired gaming mouse with customizable RGB lighting for a vibrant setup.",
+    "image": "rgb_gaming_mouse_wired.jpg",
+    "storeName": "Wired Gaming Tech"
+  },
+  {
+    "item": "Developer's Laptop",
+    "category": "Laptops",
+    "price": 32000,
+    "quantity": 15,
+    "description": "High-performance laptop designed for developers and coders.",
+    "image": "developer_laptop.jpg",
+    "storeName": "CodeMaster Solutions"
+  },
+  {
+    "item": "Entry-Level Gaming PC",
+    "category": "Gaming PC",
+    "price": 12000,
+    "quantity": 25,
+    "description": "Entry-level gaming PC for those new to PC gaming.",
+    "image": "entry_level_gaming_pc.jpg",
+    "storeName": "Gaming Newbies"
+  },
+  {
+    "item": "SSD 1TB",
+    "category": "PC Parts",
+    "price": 15000,
+    "quantity": 30,
+    "description": "High-capacity SSD for fast storage and quick data access.",
+    "image": "ssd_1tb.jpg",
+    "storeName": "Storage Solutions"
+  },
+  {
+    "item": "Gaming Headset with Microphone",
+    "category": "Peripherals",
+    "price": 6000,
+    "quantity": 50,
+    "description": "Gaming headset with a built-in microphone for clear communication.",
+    "image": "gaming_headset.jpg",
+    "storeName": "AudioGaming Tech"
+  },
+  {
+    "item": "Business Laptop Slim",
+    "category": "Laptops",
+    "price": 30000,
+    "quantity": 20,
+    "description": "Slim and lightweight business laptop for professionals on the go.",
+    "image": "business_laptop_slim.jpg",
+    "storeName": "Slim Business Tech"
+  },
+  {
+    "item": "All-in-One Gaming PC",
+    "category": "Gaming PC",
+    "price": 35000,
+    "quantity": 12,
+    "description": "All-in-one gaming PC with a sleek design and integrated components.",
+    "image": "all_in_one_gaming_pc.jpg",
+    "storeName": "All-in-One Gaming Solutions"
+  },
+  {
+    "item": "External Graphics Card Enclosure",
+    "category": "PC Parts",
+    "price": 12000,
+    "quantity": 25,
+    "description": "Enclosure to connect an external graphics card for enhanced performance.",
+    "image": "external_graphics_card_enclosure.jpg",
+    "storeName": "Graphics Expansion Tech"
+  },
+  {
+    "item": "Wireless Gaming Combo Set",
+    "category": "Peripherals",
+    "price": 10000,
+    "quantity": 30,
+    "description": "Wireless gaming keyboard and mouse combo for convenience and flexibility.",
+    "image": "wireless_gaming_combo_set.jpg",
+    "storeName": "Wireless Gaming Bundle"
+  },
+  {
+    "item": "Gaming Laptop Slim X",
+    "category": "Laptops",
+    "price": 48000,
+    "quantity": 15,
+    "description": "Slim gaming laptop with a powerful GPU for portable gaming performance.",
+    "image": "gaming_laptop_slim_x.jpg",
+    "storeName": "Slim Gaming Tech"
+  },
+  {
+    "item": "RGB Gaming Mousepad",
+    "category": "Peripherals",
+    "price": 2000,
+    "quantity": 40,
+    "description": "Mousepad with RGB lighting for a vibrant gaming setup.",
+    "image": "rgb_gaming_mousepad.jpg",
+    "storeName": "RGB Gaming Gear"
+  },
+  {
+    "item": "27-inch QHD Gaming Monitor",
+    "category": "Peripherals",
+    "price": 40000,
+    "quantity": 18,
+    "description": "27-inch QHD monitor for crisp visuals during gaming and multimedia.",
+    "image": "qhd_gaming_monitor.jpg",
+    "storeName": "QHD Display Solutions"
+  },
+  {
+    "item": "Intel Core i7 10th Gen CPU",
+    "category": "PC Parts",
+    "price": 35000,
+    "quantity": 15,
+    "description": "High-performance CPU for gaming and demanding applications.",
+    "image": "i7_10th_gen_cpu.jpg",
+    "storeName": "Intel Computing Solutions"
+  },
+  {
+    "item": "Wireless Gaming Mouse RGB",
+    "category": "Peripherals",
+    "price": 6500,
+    "quantity": 35,
+    "description": "Wireless gaming mouse with RGB lighting for a stylish gaming setup.",
+    "image": "wireless_gaming_mouse_rgb.jpg",
+    "storeName": "Wireless RGB Tech"
+  },
+  {
+    "item": "34-inch Ultrawide Gaming Monitor",
+    "category": "Peripherals",
+    "price": 55000,
+    "quantity": 12,
+    "description": "34-inch ultrawide monitor for an immersive gaming and multitasking experience.",
+    "image": "ultrawide_gaming_monitor.jpg",
+    "storeName": "Ultrawide Display Tech"
+  },
+  {
+    "item": "AMD Ryzen 9 5900X CPU",
+    "category": "PC Parts",
+    "price": 55000,
+    "quantity": 20,
+    "description": "High-end CPU with multiple cores for gaming and content creation.",
+    "image": "ryzen_9_cpu.jpg",
+    "storeName": "Ryzen Computing Solutions"
+  },
+  {
+    "item": "Bluetooth Gaming Earbuds",
+    "category": "Peripherals",
+    "price": 7500,
+    "quantity": 25,
+    "description": "Bluetooth earbuds designed for gaming with low latency audio.",
+    "image": "bluetooth_gaming_earbuds.jpg",
+    "storeName": "Bluetooth Gaming Audio"
+  },
+  {
+    "item": "Corsair 64GB DDR4 RAM",
+    "category": "PC Parts",
+    "price": 18000,
+    "quantity": 30,
+    "description": "High-capacity DDR4 RAM module for heavy multitasking and gaming.",
+    "image": "ram_64gb.jpg",
+    "storeName": "MemoryMasters Tech"
+  },
+  {
+    "item": "Flat Panel Gaming Monitor",
+    "category": "Peripherals",
+    "price": 30000,
+    "quantity": 15,
+    "description": "Flat panel monitor with fast refresh rate for competitive gaming.",
+    "image": "flat_panel_gaming_monitor.jpg",
+    "storeName": "Flat Panel Display Tech"
+  },
+  {
+    "item": "NVIDIA RTX 3060 Graphics Card",
+    "category": "PC Parts",
+    "price": 28000,
+    "quantity": 18,
+    "description": "Mid-range graphics card for high-quality gaming visuals.",
+    "image": "rtx_3060.jpg",
+    "storeName": "Graphics Zone"
+  },
+  {
+    "item": "Portable Gaming Laptop",
+    "category": "Laptops",
+    "price": 25000,
+    "quantity": 20,
+    "description": "Portable gaming laptop with a focus on performance and mobility.",
+    "image": "portable_gaming_laptop.jpg",
+    "storeName": "Portable Gaming Solutions"
+  }
+]
+
