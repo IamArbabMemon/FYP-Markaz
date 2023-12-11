@@ -6,6 +6,7 @@ const app = express();
 app.use(express.json());
 app.use(cookieParser());
 app.use('/user',userProfileRouter);
+app.use('/products',productRouter);
 
 
 try{
