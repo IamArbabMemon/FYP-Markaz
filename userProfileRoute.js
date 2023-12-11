@@ -101,7 +101,7 @@ userProfileRouter.post('/wholeSellerSignUp',async(req,res)=>{
             const passIsCorrect = await bcrypt.compare(req.body.password,userpayload.password);
 
        if(!passIsCorrect)
-                return res.send('Wrong password');
+                return res.status(404).send('Wrong password');
         
         
         const token = await jwt.sign({username:req.body.username,password:req.body.password},secretKey);    
